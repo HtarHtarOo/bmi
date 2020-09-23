@@ -1,0 +1,33 @@
+
+.header{ width: 300px; 
+         background-color: blue;
+         font-size: 25px;
+         color: white; 
+         padding: 10px 10px 0px 10px;  }
+
+.sub{  width: 300px; 
+         background-color: yellow;
+         font-size: 16px;
+         color: #045453; 
+         padding: 5px 10px 10px 10px;  }
+
+#form{ width: 240px;
+       height: 355px;
+       margin: 0 auto;
+        }
+
+.input{ width: 100px;
+        margin: 20px; }
+
+.button{ width: 195px;
+         border: 2px solid #00BDFF;
+         margin-left: 20px;
+          }
+.button:hover{ border: 2px;
+               color: white;
+               background-color: red }
+
+.text{ font-size: 17px;
+       background-color 1s, color .5s; }
+.text:hover{ background-color: #86F0FF; }
+
